@@ -1,7 +1,5 @@
 # Deep Koalarization: Image Colorization using CNNs and Inception-Resnet-v2
-By: Shengjie Lin, Yaoxuan Liu
-
-MS Students from Columbia University
+By: Shengjie Lin, Yaoxuan Liu (MS Students from Columbia University)
 
 This project is a implementation of paper [*Deep Koalarization: Image Colorization using CNNs and Inception-ResNet-v2*](https://arxiv.org/abs/1712.03400) written by Federico Baldassarre, Diego González Morín, and Lucas Rodés-Guirao. Their project github page is [here](https://github.com/baldassarreFe/deep-koalarization/#readme).
 
