@@ -19,7 +19,7 @@ depends on the specific contents in the images. The
 comparisons between our results and the results in the
 original paper are fully discussed.
 ## Project overview
-The model has a deep CNN architecture with Inception-ResNet-v2 pretrained on ImageNet dataset. The encoder stores the shape and edges of an image, the feature extractor extracts the content, and finally the decoder colorized the image. The model is trained on [places dataset](http://places2.csail.mit.edu/download.html). All the details can be found in the report. 
+The model has a deep CNN architecture with Inception-ResNet-v2 pretrained on ImageNet dataset. The encoder stores the shape and edges of an image, the feature extractor extracts high level features, and finally, the decoder colorized the image. The model is trained on [places dataset](http://places2.csail.mit.edu/download.html). All the details can be found in the report. 
 ![](https://i.postimg.cc/J0kxmp3Z/our-net.png)
 ## Results
 <img src="https://i.postimg.cc/W4Z1Gr7S/result2.png" width="700">
