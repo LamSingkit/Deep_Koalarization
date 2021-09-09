@@ -28,5 +28,5 @@ The model has a deep CNN architecture with Inception-ResNet-v2 pretrained on Ima
 <img src="https://i.postimg.cc/fLjWFNp9/result.png" width="700">
 
 ## Using the codes
-To **Train** the model, download the dataset (500MB) from [HERE](http://data.csail.mit.edu/places/places365/val_256.tar), place it in the Dataset folder. Run the codes in Training section of Jupyter notebook.  
-To **Run** the trained model and predict your picture, download the model_weights(700MB) from [HERE](https://drive.google.com/file/d/1X3rKKbXVv5en_ztab_vdoRx4W1g57smq/view?usp=sharing) and run the codes in Prediction section of Jupyter notebook.  
+- To **Train** the model, download the dataset (500MB) from [HERE](http://data.csail.mit.edu/places/places365/val_256.tar), place it in the Dataset folder. Run the codes in Training section of Jupyter notebook.  
+- To **Run** the trained model and predict your picture, download the model_weights(700MB) from [HERE](https://drive.google.com/file/d/1X3rKKbXVv5en_ztab_vdoRx4W1g57smq/view?usp=sharing) and run the codes in Prediction section of Jupyter notebook.  
